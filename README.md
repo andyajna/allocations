@@ -17,16 +17,15 @@ Feel free to use the logic in a rails project - I might one day. If you do, let 
 Andrew Kemp: GitHub = andyajna, 2013
 
 Instructions:
-Set constant 'A' to the number of trainees / people
-For 'A' people, make sure there are 'A' zeros in the howmanyterms array
-Replace 'Trainee x' with the trainees names - there should be A elements in the trainees array
-Set constant 'B' to the number of rotations available
-For 'B' rotations, make sure there are 'B' zeros in the howmanytimes array
-Replace 'Rotation x' with the rotation names - there should be B elements in the trainees array
-Input trainee's preferences in the prefs array. The first block is for trainee 1. 
-Each element is that trainee's preference for the corresponding rotation
-
-Tracers are commented out - if you find a bug, uncomment to run, 
-and follow the STOUT to find what the algorithm is doing
+1. Set constant 'A' to the number of trainees / people
+2. For 'A' people, make sure there are 'A' zeros in the howmanyterms array
+3. Replace 'Trainee x' with the trainees names - there should be A elements in the trainees array
+4. Set constant 'B' to the number of rotations available
+5. For 'B' rotations, make sure there are 'B' zeros in the howmanytimes array
+6. Replace 'Rotation x' with the rotation names - there should be B elements in the trainees array
+7. Input trainee's preferences in the prefs array. The first block is for trainee 1. 
+8. Each element is that trainee's preference for the corresponding rotation
+9. I have put tracers after every logic branch for debugging.
+10. Tracers are commented out - if you find a bug, uncomment to run, and follow the STOUT to find what the algorithm is doing
 
 Contact me if you have any questions / comments etc.
